@@ -4,6 +4,11 @@ This project aims to reduce costs by automating the deletion of unused Amazon El
 It consists of two Python Lambda functions, orchestrated by an AWS Step Function, to manage the cleanup process efficiently.
 
 
+
+
+![delete_unused_volumes_updates](https://github.com/amithub29/delete-unused-ebs-volumes/assets/84683865/384395a3-f044-4823-a12c-ccc890b4f39a)
+
+
 ## Features
 
 #### Lambda Function 1:
